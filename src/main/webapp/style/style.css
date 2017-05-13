@@ -1,0 +1,12 @@
+.jumbotron {
+    text-align: center;
+    color: darkgray;
+}
+
+.btn {
+    margin-right: 6px;
+    margin-bottom: 6px;
+}
+ .btn-default {
+     background-color: #d3cdd1;
+ }
